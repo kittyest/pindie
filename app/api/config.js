@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://kittyfront.nomoredomainswork.ru/api' 
+export const BASE_URL = 'https://kittyest.nomoredomainswork.ru/api' 
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
